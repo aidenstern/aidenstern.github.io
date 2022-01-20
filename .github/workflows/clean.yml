@@ -18,3 +18,4 @@ jobs:
         script: |
           unalias rm
           rm -rf aidenstern.github.io
+          rm -rf ../pub/*
