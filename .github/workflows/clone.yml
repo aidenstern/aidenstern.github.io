@@ -16,4 +16,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
-          git clone git@github.com:aidenstern/aidenstern.github.io.git
+          git clone https://github.com/aidenstern/aidenstern.github.io.git
