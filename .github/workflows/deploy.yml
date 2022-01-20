@@ -19,4 +19,4 @@ jobs:
         script: |
           cd aidenstern.github.io
           git pull
-          cp ./* ../../pub/
+          cp ./* ../../pub/ -f
